@@ -19,7 +19,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" value="story_content\64EDaAEBndd_DX1024_DY1024.swf" />
-              <option name="html5_logo_url" value="mobile/65mSVGI2nD5.png" />
+              <option name="html5_logo_url" value="mobile/64YZIsa58NE.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1304,8 +1304,6 @@
           <links>
             <slidelink slideid="_player.6jt7rtN4dx7.6WAGUzr22Oa" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6jt7rtN4dx7.6UcJzCCNHwy" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6jt7rtN4dx7.6Geb9S73zsf" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6jt7rtN4dx7.5taQ3Q6sSID" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6jt7rtN4dx7.5h609BQOS2F" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6jt7rtN4dx7.6AIIO7kzjzN" displaytext="الاساسيات والادوات" expand="false" type="slide" />
             <slidelink slideid="_player.6jt7rtN4dx7.5bfu7hHl2sq" displaytext="التعريف بالبرنامج" expand="false" type="slide" />
@@ -1340,7 +1338,7 @@
             <slidelink slideid="_player.6QUFOAMaEMG.5n3Pkr8E7L9" displaytext="free form question" expand="false" type="slide" />
             <slidelink slideid="_player.6QUFOAMaEMG.5Y96mbAXtXd" displaytext="question bank" expand="false" type="slide" />
             <slidelink slideid="_player.6QUFOAMaEMG.66NvGMlTK21" displaytext="time line" expand="false" type="slide" />
-            <slidelink slideid="_player.6QUFOAMaEMG.5vcnjjmdQgF" displaytext="السؤال يجب عليك اختيار الخيار الصحيح المفرد من اجابتين (صح - خطأ) من وجهة نظرك ينتمي الي" expand="false" type="slide" />
+            <slidelink slideid="_player.6QUFOAMaEMG.5vcnjjmdQgF" displaytext="السؤال يجب عليك اختيار الخيار الصحيح المفرد من اجابتين (صح - خطأ)&#xA; من وجهة نظرك ينتمي الي" expand="false" type="slide" />
             <slidelink slideid="_player.6QUFOAMaEMG.6iGy9JjbHRi" displaytext="تمكنك من ان تدع المستخد ينقر علي النقاط الساخنه علي الشريحة" expand="false" type="slide" />
             <slidelink slideid="_player.6QUFOAMaEMG.5yGw8AshC25" displaytext="تستخدم في انشاء بنك اسئلة" expand="false" type="slide" />
             <slidelink slideid="_player.6QUFOAMaEMG.5WmEY7eEczs" displaytext="كم عدد الاختبارات التي تتيحها لك اسئلة الاستبيان" expand="false" type="slide" />
@@ -1361,6 +1359,7 @@
         <slidelink slideid="_player.5y2ffKFoV9u" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5y2ffKFoV9u.6B7rZbVZl8R" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5y2ffKFoV9u.5jIyfa9gLRd" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5y2ffKFoV9u.5cIDNP7yIyb" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.5y2ffKFoV9u.6pYsNaCpokB" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
